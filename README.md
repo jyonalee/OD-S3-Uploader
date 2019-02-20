@@ -1,5 +1,5 @@
-# generate-s3-uploader
-serverless web-app that generates a limited-temporary-access file(s) uploader to AWS S3 for headless systems
+# OD-S3-Uploader
+serverless web-app that generates on-demand a limited-temporary-access file(s) uploader to AWS S3 for headless systems
 
 
 ## Introduction
