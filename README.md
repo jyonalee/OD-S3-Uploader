@@ -44,7 +44,7 @@ s3-uploader usage
  ```
  2. give permissions to install/upload script
  ```
- $ chmod +x install_uploader.sh
+ $ chmod 755 install_uploader.sh
  ```
  3. execute script
  ```
